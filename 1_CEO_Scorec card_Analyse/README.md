@@ -1,5 +1,7 @@
 ### CEO scorecard for 2023-Q1 compared to 2022-Q4. 
 
+![1_CEO_Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/df7cdea3-570d-4a58-8807-bb96adfda095)
+
 
 Let's analyze the key metrics:
 
