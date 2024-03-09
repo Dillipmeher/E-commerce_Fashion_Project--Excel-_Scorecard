@@ -1,6 +1,9 @@
-# eCommerce Fashion Scorecard
 
 ### CDO (Chief Data Officer) scorecard for 2023-Q1 compared to 2022-Q4
+
+
+![11_CDO  Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/39a8ce3b-82ab-4500-8fdd-bf908e2534a5)
+
 
 Let's analyze the key metrics:
 
