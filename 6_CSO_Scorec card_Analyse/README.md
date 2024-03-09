@@ -2,6 +2,9 @@
 ### CSO (Chief Sales Officer) scorecard for 2024-Q2 compared to 2024-Q1
 
 
+![6_CSO_Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/417d5345-73e9-4e70-94fc-1d39ff0a2ee9)
+
+
 
 Let's analyze the key metrics:
 
