@@ -1,6 +1,8 @@
 ### CPO (Chief Product Officer) scorecard for 2023-Q1 compared to 2022-Q4
 
 
+![7_CPO_Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/d8aeb6e5-5b78-4725-a1a4-3e187d4bc688)
+
 
 Let's analyze the key metrics:
 
