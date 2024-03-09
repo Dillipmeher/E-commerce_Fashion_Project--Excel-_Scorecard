@@ -2,6 +2,8 @@
 ### CTO scorecard for 2024-Q2 compared to 2024-Q1
 
 
+![5_CTO_Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/78e4bec2-c49f-4761-be6a-1f67cba731fc)
+
 
 Let's analyze the key metrics:
 
