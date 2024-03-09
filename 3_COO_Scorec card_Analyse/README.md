@@ -1,6 +1,10 @@
 ### CCO (Chief Customer Officer) scorecard for 2023-Q1 compared to 2022-Q4. 
 
 
+![3_COO_Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/f5cbef93-f1a3-4ad4-8507-4175863a8615)
+
+
+
 Let's analyze each metric:
 
 1. **NPS (Net Promoter Score):**
