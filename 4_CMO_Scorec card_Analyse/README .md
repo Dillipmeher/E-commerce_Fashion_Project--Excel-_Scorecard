@@ -1,5 +1,9 @@
 ### CMO scorecard for 2024-Q2 compared to 2024-Q1. 
 
+
+![4_CMO_Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/7b91ce67-0ad7-45d6-baa3-b20c2bec5fe4)
+
+
 Let's analyse each metric:
 
 1. **Quarterly Revenue:**
