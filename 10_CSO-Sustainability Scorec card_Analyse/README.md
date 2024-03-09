@@ -1,5 +1,9 @@
 ### CSO-Sustainability scorecard for 2023-Q1 compared to 2022-Q4
 
+
+![10_CSO-Sustainability Scorec card_Analyse](https://github.com/Dillipmeher/E-commerce_Fashion_Project--Excel-_Scorecard/assets/143451788/cacada59-24c0-4211-9a3a-e83386242d3b)
+
+
 Let's analyze the key metrics:
 
 
